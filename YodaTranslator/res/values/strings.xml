@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yoda Translator</string>
+    <string name="action_settings">Settings</string>
+    <string name="english_enter_prompt">Type something here</string>
+    <string name="convert_waiting">Waiting for translation</string>
+    <string name="convert_button">Convert to Yodish</string>
+
+</resources>
